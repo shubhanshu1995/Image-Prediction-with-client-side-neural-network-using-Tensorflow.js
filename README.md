@@ -18,9 +18,8 @@ pip install tensorflowjs
 
 For hosting the web app. I’m using Express. Express is a minimalistic framework very similar to flask but it’s for node.js not for python
 
-```
 install [node.js](https://nodejs.org/en/download/) on your system
-```
+
 Then go to the folder containing package.json file (TensorFlowJS/local-server/package.json).
 Run the command:- 
 ```bash
