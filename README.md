@@ -55,8 +55,8 @@ If you get the following message:
 ```bash
 serving static on 81
 ```
-then you are good to go
-Open your desired browser & go to the follwing link:
+then you are good to go.
+Open your desired browser & go to the following link:
 ```
 http://localhost:81/predict-with-tfjs.html
 ```
