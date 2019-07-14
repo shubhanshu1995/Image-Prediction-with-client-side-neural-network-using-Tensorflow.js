@@ -21,7 +21,7 @@ For hosting the web app. I’m using Express. Express is a minimalistic framewor
 install [node.js](https://nodejs.org/en/download/) on your system
 
 Then go to the folder containing package.json file (TensorFlowJS/local-server/package.json).
-Run the command:- 
+Run the command in terminal:- 
 ```bash
 npm install
 ```
