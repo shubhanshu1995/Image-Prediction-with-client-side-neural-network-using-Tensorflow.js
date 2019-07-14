@@ -65,7 +65,7 @@ You wil see the following page:
 ![image here](images/screenshot2.png)
 
 Select the desired model:
-![image here](images/screenshot1.png)
+![image here](images/model_loading.png)
 
 Choose the desired image & click the predict button:
-![image here](images/model_loading.png)
+![image here](images/screenshot1.png)
