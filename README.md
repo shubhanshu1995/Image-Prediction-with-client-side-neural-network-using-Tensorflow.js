@@ -47,7 +47,7 @@ tfjs.converters.save_keras_model(vgg16,'../../tfjs-models/VGG16')
 ```
 
 Remain inside the local-server directory only.
-Run the command:-
+Run the command in terminal:-
 ```bash
 node .\server.js
 ```
